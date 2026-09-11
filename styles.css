@@ -1,0 +1,25 @@
+body {
+    width: 350px;
+    margin: 20px auto;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 14px;
+}
+
+img {
+    width: 350px;
+    display: block;
+    margin: 0 auto;
+}
+
+p {
+    text-align: justify;
+}
+
+.red-text {
+    color: red;
+    font-weight: bold;
+}
+
+.highlight {
+    background-color: orange;
+}
